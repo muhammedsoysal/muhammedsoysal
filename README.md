@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/muhammedsoysal"><img src="https://readme-typing-svg.herokuapp.com?color=%23F70C0C&lines=Welcome+To+My+World&center=true&width=500&height=50"></a>
 </p>
-#
+
  <p align="center">
   <img src="https://gpvc.arturio.dev/muhammedsoysal" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">  
 <!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=JayantGoel001&style=flat&color=brightgreen">   -->
