@@ -2,12 +2,14 @@
 <p align="center">
   <a href="https://github.com/muhammedsoysal"><img src="https://readme-typing-svg.herokuapp.com?color=%23F70C0C&lines=Welcome+To+My+World&center=true&width=500&height=50"></a>
 </p>
-
-<!--[GitHub stars](https://img.shields.io/github/stars/muhammedsoysal?style=social)-->
-[![GitHub followers](https://img.shields.io/github/followers/muhammedsoysal?style=flat&logo=github)](https://github.com/muhammedsoysal?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/muhammedsoysal?style=flat&logo=github)](https://github.com/muhammedsoysal?tab=repositories)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=muhammedsoysal.visitor-badge)](https://gitHub.com/muhammedsoysal)
-
+#
+ <p align="center">
+  <img src="https://gpvc.arturio.dev/muhammedsoysal" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">  
+<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=JayantGoel001&style=flat&color=brightgreen">   -->
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/muhammedsoysal?label=Followers&style=social">    
+  <img src="https://img.shields.io/github/stars/muhammedsoysal?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
+ 
 ### 📩 Connect with me:
   <a href="https://www.linkedin.com/in/muhammed-soysal-674436204/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:soysalmuhammed000@gmail.com" target="_blank" rel="nofollow"><img alt="Esra's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
