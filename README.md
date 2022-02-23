@@ -1,12 +1,12 @@
  <h1 align="center">Hi , I'm Muhammed Soysal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">   </h1>
 <p align="center">
-  <a href="https://github.com/muhammedsoysal"><img src="https://readme-typing-svg.herokuapp.com?color=%23F70C0C&lines=Welcome+To+My+World&center=true&width=500&height=50"></a>
+   <a href="https://github.com/muhammedsoysal"><img src="https://readme-typing-svg.herokuapp.com?color=%23F70C0C&lines=Welcome+To+My+World++;Don't+Repeat+Yourself&center=true&width=500&height=50"></a>
 </p>
 
  
 ### 📩 Connect with me:
   <a href="https://www.linkedin.com/in/muhammed-soysal-674436204/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:soysalmuhammed000@gmail.com" target="_blank" rel="nofollow"><img alt="Esra's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:soysalmuhammed000@gmail.com" target="_blank" rel="nofollow"><img alt="Muhammed's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   
 **🛠𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
