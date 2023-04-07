@@ -53,6 +53,13 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedsoysal&repo=MvcProjeKampi&layout=compact&show_icons=true&theme=tokyonight">
   </a>
   </p>
+  
+###  Coffe Project - Kodluyoruz
+ <p>
+  <a href="https://github.com/muhammedsoysal/Kodluyoruz-Coffe-Project" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedsoysal&repo=Kodluyoruz-Coffe-Project&layout=compact&show_icons=true&theme=tokyonight">
+  </a>
+  </p>
 <!--
 **muhammedsoysal/muhammedsoysal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
