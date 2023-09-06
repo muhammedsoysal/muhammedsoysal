@@ -18,6 +18,7 @@
 <br/>
 <code><img height="40" width="40" src="https://img.icons8.com/color/452/visual-studio.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/color/452/visual-studio-code-2019.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/color/452/postman.png"></code>
 <code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968306.png"></code>
 <code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/733/733609.png"></code>
 
