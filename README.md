@@ -9,19 +9,25 @@
   <a href="mailto:soysalmuhammed000@gmail.com" target="_blank" rel="nofollow"><img alt="Muhammed's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   
 **🛠𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
-<br/>
-<br/>
-<code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png"></code>
-<code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/337/337953.png"></code>
-<!--<code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"></code>
-<!--<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>-->
-<br/>
-<code><img height="40" width="40" src="https://img.icons8.com/color/452/visual-studio.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/452/visual-studio-code-2019.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-postman-3521648-2945092.png?f=avif&w=256"></code>
-<code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968306.png"></code>
-<code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/733/733609.png"></code>
 
+<p>
+ <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)"/>
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="PostgreSql" src="https://img.shields.io/badge/postgresql-%231287B1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img alt="MsSql" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+<!--
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>-->
+
+</p>
 
 
  ---
