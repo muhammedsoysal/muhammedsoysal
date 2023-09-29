@@ -5,8 +5,9 @@
 
  
 ### 📩 Connect with me:
-  <a href="https://www.linkedin.com/in/muhammed-soysal-674436204/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:soysalmuhammed000@gmail.com" target="_blank" rel="nofollow"><img alt="Muhammed's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/soysalmuhammed/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:soysalmuhammed000@gmail.com" target="_blank" rel="nofollow"><img alt="Muhammed's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href="https://twitter.com/msoysal0" target="_blank"><img src="https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a></a>
   
 **🛠𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 
