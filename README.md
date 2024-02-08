@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://skillicons.dev">
  <!--   <img src="https://skillicons.dev/icons?&theme=light&i=cs,js,html,css,dotnet,bootstrap,ts,angular,visualstudio,vscode,postman"/>-->
-   <img src="https://skillicons.dev/icons?&theme=dark&i=c,cpp,cSshtml,css,dotnet,postgres,mysql,visualstudio,vscode,postman,git,stackoverflow"/>
+   <img src="https://skillicons.dev/icons?&theme=dark&i=c,cpp,csshtml,css,dotnet,postgres,mysql,visualstudio,vscode,postman,git,stackoverflow"/>
   </a>
 </p>
 
