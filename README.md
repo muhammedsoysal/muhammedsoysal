@@ -18,7 +18,6 @@
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedsoysal&label=Profile%20views&color=57a10c&style=flat" alt="soysal" /> </p>
  ---
 <br>
 
