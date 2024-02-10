@@ -3,7 +3,6 @@
    <a href="https://github.com/muhammedsoysal"><img src="https://readme-typing-svg.herokuapp.com?color=%23F70C0C&lines=Welcome+To+My+World++;Don't+Repeat+Yourself&center=true&width=500&height=50"></a>
 </p>
 
- 
 ### 📩 Connect with me:
   <a href="https://www.linkedin.com/in/soysalmuhammed/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:soysalmuhammed000@gmail.com" target="_blank" rel="nofollow"><img alt="Muhammed's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -19,6 +18,7 @@
 </p>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedsoysal&label=Profile%20views&color=57a10c&style=flat" alt="soysal" /> </p>
  ---
 <br>
 
