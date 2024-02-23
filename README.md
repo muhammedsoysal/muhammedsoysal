@@ -23,21 +23,13 @@
 
 📊 GitHub Stats
 
-<p align="center">
-  <p>
-    <a href="https://github.com/muhammedsoysal" target="_blank">
+<p align="left">
+  <a href="https://github.com/muhammedsoysal" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=muhammedsoysal&count_private=true&show_icons=true&theme=tokyonight">
-      </a>
-</p>
-  <p>
-  <a href="https://github.com/muhammedsoysal/HastaneOtomasyon" target="_blank">
- 
-  </p>
-  <p>
-  <a href="https://github.com/muhammedsoysal?tab=repositories" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsoysal&hide=python&layout=compact&show_icons=true&theme=tokyonight">
   </a>
-  </p>
+  <a href="https://github.com/muhammedsoysal?tab=repositories" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsoysal&hide=python&layout=compact&show_icons=true&theme=tokyonight">
+  </a>
 </p>
 
 ---
