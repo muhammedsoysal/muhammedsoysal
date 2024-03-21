@@ -42,7 +42,12 @@
   </a>
   </p>
 
- 
+### Identity Core Proje - Murat Yucedag
+ <p>
+  <a href="https://github.com/muhammedsoysal/Core_Proje" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedsoysal&repo=Core_Proje&layout=compact&show_icons=true&theme=tokyonight">
+  </a>
+  </p>
   
 ###  Rent A Car - Backend
  <p>
