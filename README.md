@@ -34,11 +34,10 @@
 </p>
 
 ---
-  
-###  Mvc Proje Kampi - Murat Yucedag
+### SignalRProject
  <p>
-  <a href="https://github.com/muhammedsoysal/MvcProjeKampi" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedsoysal&repo=MvcProjeKampi&layout=compact&show_icons=true&theme=tokyonight">
+  <a href="https://github.com/muhammedsoysal/SignalRProject" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedsoysal&repo=SignalRProject&layout=compact&show_icons=true&theme=tokyonight">
   </a>
   </p>
 
@@ -48,6 +47,15 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedsoysal&repo=Core_Proje&layout=compact&show_icons=true&theme=tokyonight">
   </a>
   </p>
+
+###  Mvc Proje Kampi - Murat Yucedag
+ <p>
+  <a href="https://github.com/muhammedsoysal/MvcProjeKampi" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedsoysal&repo=MvcProjeKampi&layout=compact&show_icons=true&theme=tokyonight">
+  </a>
+  </p>
+
+
   
 ###  Rent A Car - Backend
  <p>
@@ -55,6 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedsoysal&repo=ReCapProject---Backend&layout=compact&show_icons=true&theme=tokyonight">
   </a>
   </p>
+  
 <!--
 **muhammedsoysal/muhammedsoysal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
